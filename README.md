@@ -1,7 +1,1 @@
-TT9L Group 3:
-<br>
-Farah Kamila binti Yahya - 1211103293
-<br>
-Aida Maisarah binti Hisam - 1211103282
-<br>
-Amira Raina binti Azlan Rahman - 1211307539
+A group project creating a Housepooling Website, named Heather, by three students from Multimedia University (MMU).
